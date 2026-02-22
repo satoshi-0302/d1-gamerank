@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-gamerank",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "3dfa4cad-329f-425c-a5e1-922724d691d8",
+			"database_name": "d1-gamerank-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
